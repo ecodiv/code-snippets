@@ -1,2 +1,2 @@
 # python-code-snippets
-Code snippets I need to remember
+ Code snippets and examples used in the tutorials and notes on https://tutorials.ecodiv.earth.
