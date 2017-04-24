@@ -4,7 +4,8 @@
 DESCRIPTION:  A summary of the code used in the tutorial Plotting GRASS data
               in Python (part 1) to plot distance to schools in south-west
               Wake County in North Carolina of the different municipals.
-              The code below can be used to create Figure 11 in the tutorial.
+              The code below can be used to create Figure 4 and 10 in the
+              tutorial.
               Please see https://tutorials.ecodiv.earth/grass-python-plots.html
               for details.
 NOTES:        The code uses the NC sample data set (you can get this data from
