@@ -37,6 +37,7 @@ def tmpname(prefix):
 
 
 def bspline_param(vectormap, depvar):
+    """Get output bspline parameter estimates"""
     stfact = Module("v.surf.bspline", flags="ec", input=vectormap,
                     column=depvar, memory=1024, stdout_=PIPE).outputs.stdout
     stepdist = float(stfact.split(':')[-1].strip())
